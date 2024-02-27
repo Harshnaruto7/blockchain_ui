@@ -18,24 +18,23 @@ export default function Main() {
               description="Mining:0xafoe502..." 
               description2="Minimum payout:$82.27" 
               buttonText="Listen"
-              showIcons={true} // Correct prop usage
-              value="30"
+              value=""
             />
             <Card 
               title="$72.10/week" 
               description="Mining:0xafoe502..." 
               description2="Minimum payout:$82.27" 
               buttonText="Explore"  
-              value="70"
-              showIcons2={true}
+              value=""
+
             />
             <Card 
               title="$72.10/week" 
               description="Mining:0xafoe502..." 
               description2="Minimum payout:$82.27" 
               buttonText="Dive In"
-              value="90" 
-              showIcons3={true}
+              value="" 
+
             />
 
       </div>
